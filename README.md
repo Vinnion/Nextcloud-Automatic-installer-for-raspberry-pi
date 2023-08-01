@@ -1,5 +1,6 @@
 # cloud
 
+### ACHTUNG! DAS SCRIPT HABE ICH NICHT SELBER GESCHRIEBEN! HIER IST DER ORIGINALER ENTWICKLER: https://github.com/me-cooper
 ### !Beta!
 
 ### Cloud-Software "Nextcloud" installieren
